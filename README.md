@@ -16,4 +16,4 @@
 ![Python](https://img.shields.io/badge/python-0175C2?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-0175C2.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-0175C2?style=for-the-badge&logo=JSON%20web%20tokens)<br>
-1. [Moodiverse backend](https://github.com/tortamque/moodiverse-backend/tree/development) - Modular Telegram bot that will simplify the studying routine
+1. [Moodiverse backend](https://github.com/tortamque/moodiverse-backend/tree/development) - Back-end application for moodiverse project. Moodiverse is a website for gathering information about your mood and getting statistics about it.
