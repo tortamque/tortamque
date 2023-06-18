@@ -6,6 +6,7 @@
 ![iOS](https://img.shields.io/badge/iOS-0175c2?style=for-the-badge&logo=ios&logoColor=white)<br>
 
 1. [Passlum](https://github.com/tortamque/Passlum) - Passlum is a simple password generator that allows user to generate strong passwords according to their needs.
+2. [Quotlum](https://github.com/tortamque/Quotlum) - Quotlum is an application that provides users with a collection of inspiring quotes for daily motivation.
 
 ![Python](https://img.shields.io/badge/python-0175C2?style=for-the-badge&logo=python&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-0175C2?style=for-the-badge&logo=telegram&logoColor=white)<br>
