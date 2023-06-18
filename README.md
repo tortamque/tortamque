@@ -17,3 +17,7 @@
 ![Flask](https://img.shields.io/badge/flask-0175C2.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-0175C2?style=for-the-badge&logo=JSON%20web%20tokens)<br>
 1. [Moodiverse backend](https://github.com/tortamque/moodiverse-backend/tree/development) - Back-end application for moodiverse project. Moodiverse is a website for gathering information about your mood and getting statistics about it.
+
+## 🖊️ Other
+🎓 KPI studying - This repository contains all of my university work, including lab assignments, courseworks, and other related projects. Currently this repository is private. If you would like to gain access, please PM me.<br>
+It consists of 78 labworks and 3 courseworks.
