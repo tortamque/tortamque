@@ -7,6 +7,7 @@
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%230175C2.svg?style=for-the-badge&logo=kotlin&logoColor=white)<br>
 1. [TODO App](https://github.com/tortamque/TODO-App) - Just a simple todo app written in Kotlin.
+2. [Math game](https://github.com/tortamque/Math-game) - A little mathematical game where you need to perform calculations quickly..
 
 
 ![Python](https://img.shields.io/badge/python-0175C2?style=for-the-badge&logo=python&logoColor=white)
