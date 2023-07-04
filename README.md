@@ -1,5 +1,11 @@
-## My projects:<br>
+## 🌿 About me:<br>
+Hey! 👋 <br>
+My name is Vladyslav and I from Ukraine.<br><br>
+I'm a detail-oriented software engineering student with a comprehensive understanding of the Dart and Flutter framework. I am passionate about creating high-quality applications. I have experience working with APIs, algorithms, and data structures. Throughout my journey, I have worked on various projects involving Dart, Flutter, Kotlin, Python (including backend development and Telegram bots), SQL (Microsoft SQL Server, PostgreSQL), C++, C#, Figma, and many others.<br><br>
+Currently, I am focused on expanding my knowledge in the Kotlin programming language. My goal is to become an Android developer in the near future. To achieve this, I am diving into Jetpack Compose, Jetpack Multiplatform, and further enhancing my Flutter coding skills. Additionally, I am eager to deepen my understanding of application architecture to create robust and scalable solutions.<br><br>
+I'm always eager to take on new challenges and contribute to exciting projects. Feel free to message me if you have any questions :D
 
+## My projects:<br>
 | Language | Used libraries / Frameworks | Name | Description | Link |
 | :------: | :------------------------: | :---: | ---------- | :--: |
 | <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="30" height="30"/>&nbsp;  | <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="30" height="30"/>&nbsp;  | Passlum  | Passlum is a simple password generator that allows user to generate strong passwords according to their needs.  | [Link](https://github.com/tortamque/Passlum)  |
