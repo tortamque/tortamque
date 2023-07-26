@@ -22,7 +22,7 @@ I'm always eager to take on new challenges and contribute to exciting projects. 
 | Name | Description | Content | Visibility |
 | :--------: | -------- | -------- | -------- |
 | KPI studying  | This repository contains all of my university work, including lab assignments, courseworks, and other related projects. Currently this repository is private.  | It consists of 78 labworks and 3 courseworks.  | Private. If you would like to gain access, please PM me.  |
-| Certificates  | This repository contains a collection of certificates that I have earned in various courses and training programs.  | Currently, it consists of 1 certificate:<br> [SOLID Principles](https://www.udemy.com/course/solid-design/)  | Private. If you would like to gain access, please PM me.  |
+| Certificates  | This repository contains a collection of certificates that I have earned in various courses and training programs.  | Currently, it consists of 1 certificate:<br>1. [SOLID Principles](https://www.udemy.com/course/solid-design/) <br>2. [Android App Development with Kotlin. Beginner to Advanced](https://www.udemy.com/course/android-app-development-with-kotlin-beginner-to-advanced/)  | Private. If you would like to gain access, please PM me.  |
 
 ## 📊 Some statistics:<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tortamque&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
