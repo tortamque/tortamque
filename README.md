@@ -1,4 +1,4 @@
-<a href="https://github.com/tortamque"><img src="https://komarev.com/ghpvc/?username=tortamque&style=for-the-badge" align="right"></a></br>
+<a href="https://github.com/tortamque"><img src="https://komarev.com/ghpvc/?username=tortamque&style=for-the-badge&color=886ce4" align="right"></a></br>
 ## 🌿 About me:<br>
 Hey! 👋 <br>
 My name is Vladyslav, and I am from Ukraine.<br><br>
