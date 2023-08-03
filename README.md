@@ -7,33 +7,16 @@ Currently, I am focused on expanding my knowledge in the Kotlin programming lang
 I'm always eager to take on new challenges and contribute to exciting projects. Feel free to message me if you have any questions :D
 
 ## 💻 My projects:<br>
-### <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="20" height="20"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="20" height="20"/>&nbsp; Dart/Flutter:<br>
 | Language | Used libraries / Frameworks | Name | Description | Link |
 | :------: | :------------------------: | :---: | ---------- | :--: |
 | <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="30" height="30"/>&nbsp;  | <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="30" height="30"/>&nbsp;  | Passlum  | Passlum is a simple password generator that allows user to generate strong passwords according to their needs.  | [Link](https://github.com/tortamque/Passlum)  |
 | <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="30" height="30"/>&nbsp;  | <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="30" height="30"/>&nbsp;  | Quotlum  | Quotlum is an application that provides users with a collection of inspiring quotes for daily motivation.  | [Link](https://github.com/tortamque/Quotlum)  |
-
-### <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="20" height="20"/>&nbsp; <img src="https://camo.githubusercontent.com/fc917b07a14d32538cd2fcb0477a795f40864f617a9457511f2073e17e2a4bee/68747470733a2f2f692e696d6775722e636f6d2f65696f546279462e706e67" width="20"/>&nbsp; Kotlin/Jetpack Compose
-| Language | Used libraries / Frameworks | Name | Description | Link |
-| :------: | :------------------------: | :---: | ---------- | :--: |
 | <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="30" height="30"/>&nbsp;  | <img src="https://camo.githubusercontent.com/fc917b07a14d32538cd2fcb0477a795f40864f617a9457511f2073e17e2a4bee/68747470733a2f2f692e696d6775722e636f6d2f65696f546279462e706e67" width="30"/>&nbsp; | Newslum | Newslum is a powerful news aggregator app that brings you the latest headlines from various trusted sources. | [Link](https://github.com/tortamque/Newslum)  |
-
-### <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="20" height="20"/>&nbsp; Kotlin
-| Language | Used libraries / Frameworks | Name | Description | Link |
-| :------: | :------------------------: | :---: | ---------- | :--: |
 | <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="30" height="30"/>&nbsp;  | <img src="https://cdn.iconscout.com/icon/free/png-256/free-firebase-3521427-2944871.png" width="30" height="30"/>&nbsp; | Firebase Registration | User management system with Firebase Realtime Database integration. | [Link](https://github.com/tortamque/Firebase-registration)  |
 | <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="30" height="30"/>&nbsp;  |   | NoteU | NoteU is a note-taking app that allows users to manage their notes. | [Link](https://github.com/tortamque/NoteU)  |
 | <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="30" height="30"/>&nbsp;  |   | TODO App  | Just a simple todo app written in Kotlin.  | [Link](https://github.com/tortamque/TODO-App)  |
 | <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="30" height="30"/>&nbsp;  |   | Math game  | A little mathematical game where you need to perform calculations quickly.  | [Link](https://github.com/tortamque/Math-game)  |
-
-### <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="20" height="20"/>&nbsp; Python Backend
-| Language | Used libraries / Frameworks | Name | Description | Link |
-| :------: | :------------------------: | :---: | ---------- | :--: |
 | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30" height="30"/>&nbsp;  | <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="30" height="30"/>&nbsp;  | Moodiverse backend  |  Back-end application for moodiverse project. Moodiverse is a website for gathering information about your mood and getting statistics about it.  | [Link](https://github.com/tortamque/moodiverse-backend/tree/development)  |
-
-### <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="20" height="20"/>&nbsp; Python Telegram Bots
-| Language | Used libraries / Frameworks | Name | Description | Link |
-| :------: | :------------------------: | :---: | ---------- | :--: |
 | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30" height="30"/>&nbsp;  | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width="30" height="30"/>&nbsp;  | FICT Failing Score Calculator  | A Telegram bot that will help applicants calculate an approximate failing score for the FICT specialties.  | [Link](https://github.com/tortamque/fict-failing-score-calculator)  |
 | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30" height="30"/>&nbsp;  | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width="30" height="30"/>&nbsp;  | Group Helper Bot  |  Modular Telegram bot that will simplify the studying routine.  | [Link](https://github.com/tortamque/group-helper-bot)  |
 
