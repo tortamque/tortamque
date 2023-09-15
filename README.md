@@ -1,10 +1,10 @@
 <a href="https://github.com/tortamque"><img src="https://komarev.com/ghpvc/?username=tortamque&style=for-the-badge&color=886ce4" align="right"></a></br>
 ## 🌿 About me:<br>
-Hey! 👋 <br>
+Hey! 👋<br>
 My name is Vladyslav, and I am from Ukraine.<br><br>
-I'm a detail-oriented software engineering student with a comprehensive understanding of the Dart and Flutter framework. I am passionate about creating high-quality applications. I have experience working with APIs, algorithms, and data structures. Throughout my journey, I have worked on various projects involving Dart, Flutter, Kotlin, Python (including backend development and Telegram bots), SQL (Microsoft SQL Server, PostgreSQL), C++, C#, Figma, and many others.<br><br>
+I'm a detail-oriented software engineering student with a comprehensive understanding of the Dart and Flutter frameworks. I am passionate about creating high-quality applications and have experience working with APIs, algorithms, and data structures. Throughout my journey, I've worked on various projects involving Dart, Flutter, Kotlin, Python (including backend development and Telegram bots), SQL (Microsoft SQL Server, PostgreSQL), C++, C#, Firebase (Realtime database, Crashlytics, Analytics), Figma, and many others.<br><br>
 Currently, I am focused on expanding my knowledge in the Kotlin programming language. My goal is to become an Android developer in the near future. To achieve this, I am diving into Jetpack Compose, Jetpack Multiplatform, and further enhancing my Flutter coding skills. Additionally, I am eager to deepen my understanding of application architecture to create robust and scalable solutions.<br><br>
-I'm always eager to take on new challenges and contribute to exciting projects. Feel free to message me if you have any questions :D
+I'm always eager to take on new challenges and contribute to exciting projects. Feel free to message me if you have any questions. :D
 
 ## 💻 My projects:<br>
 ### <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="20" height="20"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="20" height="20"/>&nbsp; Dart/Flutter:<br>
@@ -41,7 +41,7 @@ I'm always eager to take on new challenges and contribute to exciting projects. 
 ### 🖊️ Other repositories
 | Name | Description | Content | Visibility |
 | :--------: | -------- | -------- | -------- |
-| KPI studying  | This repository contains all of my university work, including lab assignments, courseworks, and other related projects. Currently this repository is private.  | It consists of 78 labworks and 3 courseworks.  | Private. If you would like to gain access, please PM me.  |
+| KPI studying  | This repository contains all of my university work, including lab assignments, courseworks, and other related projects. Currently this repository is private.  | It consists of 80 labworks and 3 courseworks.  | Private. If you would like to gain access, please PM me.  |
 | Certificates  | This repository contains a collection of certificates that I have earned in various courses and training programs.  | Currently, it consists of 3 certificates:<br>1. [SOLID Principles](https://www.udemy.com/course/solid-design/) <br>2. [Android App Development with Kotlin. Beginner to Advanced](https://www.udemy.com/course/android-app-development-with-kotlin-beginner-to-advanced/)<br>3. [Android 12 Jetpack Compose Developer Course](https://www.udemy.com/course/android-12-jetpack-compose-developer-course/)  | Private. If you would like to gain access, please PM me.  |
 
 ## 📊 Some statistics:<br>
