@@ -3,7 +3,7 @@
 Hey! 👋<br>
 My name is Vladyslav, and I am from Ukraine.<br><br>
 I'm a detail-oriented software engineering student with a comprehensive understanding of the Dart and Flutter frameworks. I am passionate about creating high-quality applications and have experience working with APIs, algorithms, and data structures. Throughout my journey, I've worked on various projects involving Dart, Flutter, Kotlin, Python (including backend development and Telegram bots), SQL (Microsoft SQL Server, PostgreSQL), C++, C#, Firebase (Realtime database, Authentication, Crashlytics, Analytics), Figma, and many others.<br><br>
-Currently, I am focused on expanding my knowledge in the Kotlin programming language. My goal is to become an Android developer in the near future. To achieve this, I am diving into Jetpack Compose, Jetpack Multiplatform, and further enhancing my Flutter coding skills. Additionally, I am eager to deepen my understanding of application architecture to create robust and scalable solutions.<br><br>
+Currently, my main focus is on broadening my expertise in the Flutter framework. My goal is to become an Android developer in the near future. To achieve this, I am delving into Flutter architecture, experimenting with new packages, constantly exploring novel approaches, and continually honing my Flutter coding skills. Additionally, I am eager to deepen my understanding of application architecture to create robust and scalable solutions.<br><br>
 I'm always eager to take on new challenges and contribute to exciting projects. Feel free to message me if you have any questions. :D
 
 ## 💻 My projects:<br>
