@@ -2,8 +2,27 @@
 ## 🌿 About me:<br>
 Hey! 👋<br>
 My name is Vladyslav, and I am from Ukraine.<br><br>
-I'm a detail-oriented software engineering student with a comprehensive understanding of the Dart and Flutter frameworks. I am passionate about creating high-quality applications and have experience working with APIs, algorithms, and data structures. Throughout my journey, I've worked on various projects involving Dart, Flutter, Kotlin, Python (including backend development and Telegram bots), SQL (Microsoft SQL Server, PostgreSQL), C++, C#, Firebase (Realtime database, Authentication, Crashlytics, Analytics), Figma, and many others.<br><br>
-Currently, my main focus is on broadening my expertise in the Flutter framework. My goal is to become an Android developer in the near future. To achieve this, I am delving into Flutter architecture, experimenting with new packages, constantly exploring novel approaches, and continually honing my Flutter coding skills. Additionally, I am eager to deepen my understanding of application architecture to create robust and scalable solutions.<br><br>
+I'm a detail-oriented software engineering student with a comprehensive understanding of the Dart and Flutter frameworks. I am passionate about creating high-quality applications and have experience working with APIs, algorithms, and data structures.
+
+Throughout my journey, I've worked on various projects involving:
+- Dart + Flutter,
+   * BLoC
+   * GetIt
+   * Retrofit
+   * Shared Preferences
+   * Hive
+   * Dartz
+- Firebase (Realtime Database, Authentication, Crashlytics, Analytics), 
+- Kotlin + Jetpack Compose,
+- Python (including backend development and Telegram bots), 
+- SQL (Microsoft SQL Server, PostgreSQL), 
+- C++, 
+- C#, 
+- Figma, 
+- and many others.
+
+Currently, my main focus is on expanding my expertise in the Flutter framework, with the goal of becoming a proficient Android developer. I am actively experimenting with new packages and exploring novel approaches in Flutter, while continually honing my coding skills. Additionally, I am eager to deepen my understanding of application architecture to create robust and scalable solutions.
+
 I'm always eager to take on new challenges and contribute to exciting projects. Feel free to message me if you have any questions. :D
 
 ## 💻 My projects:<br>
