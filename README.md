@@ -37,7 +37,7 @@ I'm always eager to take on new challenges and contribute to exciting projects. 
 ### <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="20" height="20"/>&nbsp; <img src="https://camo.githubusercontent.com/fc917b07a14d32538cd2fcb0477a795f40864f617a9457511f2073e17e2a4bee/68747470733a2f2f692e696d6775722e636f6d2f65696f546279462e706e67" width="20"/>&nbsp; Kotlin/Jetpack Compose
 | Language | Used libraries / Frameworks | Name | Description | Link |
 | :------: | :------------------------: | :---: | ---------- | :--: |
-| <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="30" height="30"/>&nbsp;  | <img src="https://camo.githubusercontent.com/fc917b07a14d32538cd2fcb0477a795f40864f617a9457511f2073e17e2a4bee/68747470733a2f2f692e696d6775722e636f6d2f65696f546279462e706e67" width="30"/>&nbsp; | Newslum | Newslum is a powerful news aggregator app that brings you the latest headlines from various trusted sources. | [Link](https://github.com/tortamque/Newslum)  |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="30" height="30"/>&nbsp;  | <img src="https://i.imgur.com/GLYnR4a.png" width="30"/>&nbsp; | Newslum | Newslum is a powerful news aggregator app that brings you the latest headlines from various trusted sources. | [Link](https://github.com/tortamque/Newslum)  |
 
 ### <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="20" height="20"/>&nbsp; Kotlin
 | Language | Used libraries / Frameworks | Name | Description | Link |
