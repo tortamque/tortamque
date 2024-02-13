@@ -12,7 +12,7 @@ Throughout my journey, I've worked on various projects involving:
    * Shared Preferences
    * Hive
    * Dartz
-- Firebase (Realtime Database, Authentication, Crashlytics, Analytics), 
+- Firebase (Realtime Database, Authentication, Crashlytics, Analytics, Push Notifications), 
 - Kotlin + Jetpack Compose,
 - Python (including backend development and Telegram bots), 
 - SQL (Microsoft SQL Server, PostgreSQL), 
