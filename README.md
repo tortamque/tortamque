@@ -12,7 +12,8 @@ Throughout my journey, I've worked on various projects involving:
    * Shared Preferences
    * Hive
    * Dartz
-- Firebase (Realtime Database, Authentication, Crashlytics, Analytics, Push Notifications), 
+- Firebase (Realtime Database, Authentication, Crashlytics, Analytics, Push Notifications),
+- OneSignal
 - Kotlin + Jetpack Compose,
 - Python (including backend development and Telegram bots), 
 - SQL (Microsoft SQL Server, PostgreSQL), 
