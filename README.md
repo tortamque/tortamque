@@ -13,6 +13,7 @@ Throughout my journey, I've worked on various projects involving:
    * Hive
    * Dartz
 - Firebase (Realtime Database, Authentication, Crashlytics, Analytics, Push Notifications),
+- TestFlight
 - OneSignal
 - Kotlin + Jetpack Compose,
 - Python (including backend development and Telegram bots), 
