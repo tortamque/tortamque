@@ -12,7 +12,11 @@ Throughout my journey, I've worked on various projects involving:
    * Shared Preferences
    * Hive
    * Dartz
+   * and many others
 - Firebase (Realtime Database, Authentication, Crashlytics, Analytics, Push Notifications),
+- Apps publishing (Google Play, App Store)
+- Facebook SDK
+- In-app purchases and subscriptions (Revenuecat)
 - TestFlight
 - OneSignal
 - Kotlin + Jetpack Compose,
