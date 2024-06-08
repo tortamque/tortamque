@@ -13,23 +13,27 @@ Throughout my journey, I've worked on various projects involving:
    * Hive
    * Dartz
    * and many others
-- Firebase (Realtime Database, Authentication, Crashlytics, Analytics, Push Notifications),
-- Apps publishing (Google Play, App Store)
+- Firebase (Realtime Database, Authentication, Crashlytics, Analytics, Push Notifications)
+- Apps Publishing (Google Play, App Store)
+- Apps Localization
 - Facebook SDK
 - In-app purchases and subscriptions (Revenuecat)
 - TestFlight
 - OneSignal
-- Kotlin + Jetpack Compose,
-- Python (including backend development and Telegram bots), 
-- SQL (Microsoft SQL Server, PostgreSQL), 
-- C++, 
-- C#, 
-- Figma, 
-- and many others.
+- Kotlin + Jetpack Compose
+- Python (including backend development and Telegram bots)
+- SQL (Microsoft SQL Server, PostgreSQL)
+- C++
+- C#
+- Figma
+- and many others
 
-Currently, my main focus is on expanding my expertise in the Flutter framework, with the goal of becoming a proficient Android developer. I am actively experimenting with new packages and exploring novel approaches in Flutter, while continually honing my coding skills. Additionally, I am eager to deepen my understanding of application architecture to create robust and scalable solutions.
+I have experience with the full app development lifecycle, from initial concept and planning, through design, implementation, testing, and deployment. I have also collaborated closely with QA, design, and project management teams to ensure that projects meet high standards of quality and user satisfaction. My applications have been successful in Tier-1 and Tier-2 countries, demonstrating their global appeal and robust functionality.
+
+Currently, my main focus is on expanding my expertise in the Flutter framework, with the goal of becoming a proficient Android developer and bringing users a unique and high-quality experience. I am actively experimenting with new packages and exploring novel approaches in Flutter while continually honing my coding skills. Additionally, I am eager to deepen my understanding of application architecture to create robust and scalable solutions.
 
 I'm always eager to take on new challenges and contribute to exciting projects. Feel free to message me if you have any questions. :D
+
 
 ## 💻 My projects:<br>
 ### <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="20" height="20"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="20" height="20"/>&nbsp; Dart/Flutter:<br>
