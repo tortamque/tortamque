@@ -34,10 +34,16 @@ Currently, my main focus is on expanding my expertise in the Flutter framework, 
 
 I'm always eager to take on new challenges and contribute to exciting projects. Feel free to message me if you have any questions. :D
 
-
-## 💻 My projects:<br>
+## 💻 My Commercial Projects:<br>
 ### <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="20" height="20"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="20" height="20"/>&nbsp; Dart/Flutter:<br>
-| Language | Used libraries / Frameworks | Name | Description | Link |
+| Icon | Language | Used libraries / Frameworks | Name | Description | Links | Downloads |
+| :--: | :------: | :------------------------: | :---: | ---------- | :---: | :-------: |
+| ![image](https://github.com/user-attachments/assets/78e8d316-d0aa-48af-8571-86ccec778b09) | <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="30" height="30"/>&nbsp; | <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="30" height="30"/>&nbsp; <img src="https://cdn.iconscout.com/icon/free/png-256/free-firebase-3521427-2944871.png" width="30" height="30"/>&nbsp; | Inura  | Inura is an AI-powered astrology app offering personalized horoscopes, birth charts, and astrological insights to help you navigate life with the guidance of the stars. | [App Store](https://apps.apple.com/ua/app/inura/id6447061709?l=ru) [Google Play](https://play.google.com/store/apps/details?id=com.improvs.inura&hl=ru)  | >100,000 |
+| ![image](https://github.com/user-attachments/assets/efec6bfd-b24f-42d0-b604-3f6335f40b0c) | <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="30" height="30"/>&nbsp; | <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="30" height="30"/>&nbsp; <img src="https://cdn.iconscout.com/icon/free/png-256/free-firebase-3521427-2944871.png" width="30" height="30"/>&nbsp; | Ta2 - AI Tattoo Generator  | Ta2 is an innovative app that lets you design personalized tattoos and preview them on live skin using augmented reality, offering endless creative possibilities. | [App Store](https://apps.apple.com/ua/app/ta2-ai-tattoo-designs-maker/id6469413280?l=ru) [Google Play](https://play.google.com/store/apps/details?id=com.indise.tattoos_app&hl=en)  | >10,000 |
+
+## 💻 My Pet Projects:<br>
+### <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="20" height="20"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="20" height="20"/>&nbsp; Dart/Flutter:<br>
+| Language | Used Frameworks | Name | Description | Link |
 | :------: | :------------------------: | :---: | ---------- | :--: |
 | <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="30" height="30"/>&nbsp;   | <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="30" height="30"/>&nbsp; <img src="https://cdn.iconscout.com/icon/free/png-256/free-firebase-3521427-2944871.png" width="30" height="30"/>&nbsp; | Poetlum  | Poetlum is a user-friendly mobile app that revolutionizes poetry engagement, offering seamless search, creation, and sharing of poems, coupled with cloud storage for a personalized, accessible poetic experience. | [Link](https://github.com/tortamque/Poetlum)  |
 | <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="30" height="30"/>&nbsp;  | <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="30" height="30"/>&nbsp;  | Musiclum  | Musiclum is a sleek music application designed to enhance your music discovery experience. | [Link](https://github.com/tortamque/Musiclum)  |
