@@ -13,7 +13,7 @@ Throughout my journey, I've worked on various projects involving:
    * Hive
    * Dartz
    * and many others
-- Firebase (Realtime Database, Authentication, Crashlytics, Analytics, Push Notifications, Dynamic Links)
+- Firebase (Realtime Database, Authentication, Crashlytics, Analytics, Push Notifications, Dynamic Links, App Distribution)
 - Apps Publishing (Google Play, App Store)
 - Apps Localization
 - Facebook SDK
