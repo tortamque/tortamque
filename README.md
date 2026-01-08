@@ -88,6 +88,3 @@ I'm always eager to take on new challenges and contribute to exciting projects. 
 | :--------: | -------- | -------- | -------- |
 | KPI studying  | This repository contains all of my university work, including lab assignments, courseworks, and other related projects. Currently this repository is private.  | It consists of 100 labworks and 4 courseworks.  | Private. If you would like to gain access, please PM me.  |
 | Certificates  | This repository contains a collection of certificates that I have earned in various courses and training programs.  | Currently, it consists of 3 certificates:<br>1. [SOLID Principles](https://www.udemy.com/course/solid-design/) <br>2. [Android App Development with Kotlin. Beginner to Advanced](https://www.udemy.com/course/android-app-development-with-kotlin-beginner-to-advanced/)<br>3. [Android 12 Jetpack Compose Developer Course](https://www.udemy.com/course/android-12-jetpack-compose-developer-course/)  | Private. If you would like to gain access, please PM me.  |
-
-## 📊 Some statistics:<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tortamque&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
