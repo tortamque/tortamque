@@ -5,7 +5,7 @@ My name is Vladyslav and I'm a Flutter Developer from Ukraine
 Over the past few years, I've worked in startup, product, outsourcing, and outstaffing environments, contributing to mobile applications used by users across Tier-1 and Tier-2 markets. My experience ranges from building MVPs and launching new products to maintaining and scaling production applications
 I specialize in Flutter and Dart development, with a strong focus on application architecture, scalability, maintainability and user experience. Throughout my career I've been involved in the full software development lifecycle - from requirements analysis and technical planning to implementation, testing, release management and post-launch support
 
-My technical experience includes:
+My technical experience includes:<br>
 • Flutter & Dart<br>
 • Clean Architecture, MVVM<br>
 • State management with BLoC, Cubit, Provider, and Riverpod<br>
