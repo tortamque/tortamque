@@ -1,32 +1,20 @@
 <a href="https://github.com/tortamque"><img src="https://komarev.com/ghpvc/?username=tortamque&style=for-the-badge&color=886ce4" align="right"></a></br>
 ## 🌿 About me:<br>
 Hey! 👋<br>
-My name is Vladyslav, and I am from Ukraine.<br><br>
-I'm a detail-oriented software engineering student with a comprehensive understanding of the Dart and Flutter frameworks. I am passionate about creating high-quality applications and have experience working with APIs, algorithms, and data structures.
+My name is Vladyslav and I'm a Flutter Developer from Ukraine 
+Over the past few years, I've worked in startup, product, outsourcing, and outstaffing environments, contributing to mobile applications used by users across Tier-1 and Tier-2 markets. My experience ranges from building MVPs and launching new products to maintaining and scaling production applications
+I specialize in Flutter and Dart development, with a strong focus on application architecture, scalability, maintainability and user experience. Throughout my career I've been involved in the full software development lifecycle - from requirements analysis and technical planning to implementation, testing, release management and post-launch support
 
-Throughout my journey, I've worked on various projects involving:
-- Dart + Flutter,
-   * BLoC
-   * GetIt
-   * Retrofit
-   * Shared Preferences
-   * Hive
-   * Dartz
-   * and many others
-- Firebase (Realtime Database, Authentication, Crashlytics, Analytics, Push Notifications, Dynamic Links, App Distribution)
-- Apps Publishing (Google Play, App Store)
-- Apps Localization
-- Facebook SDK
-- In-app purchases and subscriptions (Revenuecat)
-- TestFlight
-- OneSignal
-- Kotlin + Jetpack Compose
-- Python (including backend development and Telegram bots)
-- SQL (Microsoft SQL Server, PostgreSQL)
-- C++
-- C#
-- Figma
-- and many others
+My technical experience includes:
+• Flutter & Dart<br>
+• Clean Architecture, MVVM<br>
+• State management with BLoC, Cubit, Provider, and Riverpod<br>
+• Firebase ecosystem (Authentication, Realtime Database, Push Notifications, Analytics, Crashlytics, Storage, Remote Config)<br>
+• Native Android and iOS integrations using Kotlin, Swift, Method Channels, and custom Flutter plugins<br>
+• REST APIs, reactive programming, streams, and event-driven architectures<br>
+• Deep linking, localization, push notifications, analytics, and in-app subscriptions<br>
+• Unit, integration, and automated testing<br>
+• CI/CD, app publishing, and release management for Google Play and the App Store.<br>
 
 I have experience with the full app development lifecycle, from initial concept and planning, through design, implementation, testing, and deployment. I have also collaborated closely with QA, design, and project management teams to ensure that projects meet high standards of quality and user satisfaction. My applications have been successful in Tier-1 and Tier-2 countries, demonstrating their global appeal and robust functionality.
 
